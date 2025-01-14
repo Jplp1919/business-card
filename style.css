@@ -30,6 +30,8 @@ h1 {
     font-size: 2rem;
     color: #3d91e5;
     margin: 0;
+    left: 6px;
+    text-shadow: 1px 1px 0 #3e3d3d, -1px 1px 0 #383838, 1px -1px 0 #504b4b, -1px -1px 0 #ebedf1;
 }
 
 h2 {
